@@ -74,6 +74,13 @@
 //
 //        _contentLabel.text = contentStr;
 //    }
+//    else
+//    {
+//        [super observeValueForKeyPath:keyPath
+//                             ofObject:object
+//                               change:change
+//                              context:nil];
+//    }
 //}
 //
 //
